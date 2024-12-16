@@ -17,7 +17,9 @@ npm install toydash
 ## 사용법
 
 ```js
-const toydash = require('toydash');
+import { checkedArr } from toydaysh
+
+checkedArr((1,2));
 ```
 
 ## 기여하기
